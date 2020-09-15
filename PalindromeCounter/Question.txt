@@ -1,0 +1,10 @@
+Palindrome Counter
+
+Find the Number of palindormes that can be formed using substrings of the given string.
+
+Example:
+
+The string is s='tacocat'.
+The palindromic substrings are ['t','a','c','o','c','a','t','coc','acoca','tacocat']
+There are 10 palindromic substrings. so the output is 10;
+
